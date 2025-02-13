@@ -1,0 +1,18 @@
+│── app/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── crud.py
+│   ├── routers/
+│   │   ├── auth.py
+│   │   ├── rooms.py
+│   │   ├── bookings.py
+│   ├── websocket/
+│   │   ├── notifications.py
+│   ├── dependencies.py
+│── tests/
+│── .env
+│── Dockerfile
+│── docker-compose.yml
+│── requirements.txt
